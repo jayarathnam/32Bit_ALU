@@ -178,7 +178,9 @@ Worklib is the directory where all the compiled codes are stored while Snapshot 
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
-![Screenshot 2024-10-26 092824](https://github.com/user-attachments/assets/07224d0f-0aaf-41ff-bad5-cb9668ad3ff3)
+
+![Screenshot 2024-10-21 113546](https://github.com/user-attachments/assets/43676585-f679-4226-85d6-7b01c43ff9e0)
+
 
 ### Fig 6: Nclaunch Window
 
@@ -204,7 +206,9 @@ Left side select the file and in Tools : launch verilog compiler with current se
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
-![Screenshot 2024-10-26 092949](https://github.com/user-attachments/assets/fcd746a4-2861-4909-8a6c-b795b143dcb4)
+
+![Screenshot 2024-10-21 113546](https://github.com/user-attachments/assets/c2761066-7e30-4a07-ae03-bc82bf7ff6e2)
+
 
 ### Fig 7: Compiled database in worklib
 
