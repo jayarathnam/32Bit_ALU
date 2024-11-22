@@ -154,6 +154,7 @@ Select Multiple Step and then select “Create cds.lib File” as shown in below
 
 Click the cds.lib file and save the file by clicking on Save option 
 
+![Screenshot 2024-11-18 125305](https://github.com/user-attachments/assets/65515893-2596-4bb8-84f1-0247b5fbdbae)
 
 
 ### Fig 4:cds.lib file Creation
@@ -179,7 +180,7 @@ Worklib is the directory where all the compiled codes are stored while Snapshot 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
 
-![Screenshot 2024-10-21 113546](https://github.com/user-attachments/assets/43676585-f679-4226-85d6-7b01c43ff9e0)
+
 
 
 ### Fig 6: Nclaunch Window
